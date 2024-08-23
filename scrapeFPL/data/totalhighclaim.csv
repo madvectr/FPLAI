@@ -1,0 +1,262 @@
+Season,Player ID,Name,First Name,Last Name,Position,Shirt Number,Position Info,Current Team,Team Abbreviation,TotalHighClaim,Age,Nationality,Rank
+2024/25,35190.0,Alex McCarthy,Alex,McCarthy,G,13.0,Goalkeeper,Southampton,SOU,2.0,34 years 264 days,England,1.0
+2024/25,342476.0,André Onana,André,Onana,G,24.0,Goalkeeper,Manchester United,MUN,2.0,28 years 143 days,Cameroon,1.0
+2024/25,314431.0,Alphonse Areola,Alphonse,Areola,G,23.0,Goalkeeper,West Ham United,WHU,1.0,31 years 178 days,France,3.0
+2024/25,340457.0,Mark Flekken,Mark,Flekken,G,1.0,Goalkeeper,Brentford,BRE,1.0,31 years 71 days,Netherlands,3.0
+2024/25,281359.0,José Sá,José Pedro,Malheiro de Sá,G,1.0,Goalkeeper,Wolverhampton Wanderers,WOL,1.0,31 years 219 days,Portugal,3.0
+2024/25,252275.0,Emiliano Martínez,Emiliano,Martínez,G,23.0,Goalkeeper,Aston Villa,AVL,1.0,31 years 356 days,Argentina,3.0
+2024/25,46085.0,Jordan Pickford,Jordan,Pickford,G,n/a,Goalkeeper,Everton,EVE,1.0,30 years 169 days,England,3.0
+2024/25,313738.0,Nick Pope,Nick,Pope,G,22.0,Goalkeeper,Newcastle United,NEW,1.0,32 years 126 days,England,3.0
+2024/25,360351.0,David Raya,David,Raya,G,22.0,Goalkeeper,Arsenal,ARS,1.0,28 years 343 days,Spain,3.0
+2024/25,343670.0,Robert Sánchez,Robert,Sánchez,G,1.0,Goalkeeper,Chelsea,CHE,1.0,26 years 279 days,Spain,3.0
+2024/25,44029.0,Ederson,Ederson,Santana de Moraes,G,31.0,Goalkeeper,Manchester City,MCI,1.0,31 years 6 days,Brazil,3.0
+2024/25,340670.0,Guglielmo Vicario,Guglielmo,Vicario,G,1.0,Goalkeeper,Tottenham Hotspur,TOT,1.0,27 years 321 days,Italy,3.0
+2024/25,301239.0,Christian Walton,Christian,Walton,G,28.0,Goalkeeper,Ipswich Town,IPS,1.0,28 years 288 days,England,3.0
+2023/24,281359.0,José Sá,José Pedro,Malheiro de Sá,G,1.0,Goalkeeper,Wolverhampton Wanderers,WOL,45.0,31 years 219 days,Portugal,1.0
+2023/24,252275.0,Emiliano Martínez,Emiliano,Martínez,G,23.0,Goalkeeper,Aston Villa,AVL,45.0,31 years 356 days,Argentina,1.0
+2023/24,340457.0,Mark Flekken,Mark,Flekken,G,1.0,Goalkeeper,Brentford,BRE,44.0,31 years 71 days,Netherlands,3.0
+2023/24,342476.0,André Onana,André,Onana,G,24.0,Goalkeeper,Manchester United,MUN,42.0,28 years 143 days,Cameroon,4.0
+2023/24,360351.0,David Raya,David,Raya,G,22.0,Goalkeeper,n/a,n/a,40.0,28 years 343 days,Spain,5.0
+2023/24,340670.0,Guglielmo Vicario,Guglielmo,Vicario,G,1.0,Goalkeeper,Tottenham Hotspur,TOT,33.0,27 years 321 days,Italy,6.0
+2023/24,46085.0,Jordan Pickford,Jordan,Pickford,G,n/a,Goalkeeper,Everton,EVE,30.0,30 years 169 days,England,7.0
+2023/24,342474.0,James Trafford,James,Trafford,G,1.0,Goalkeeper,Burnley,BUR,30.0,21 years 318 days,England,7.0
+2023/24,344441.0,Matt Turner,Matt,Turner,G,1.0,Goalkeeper,Nottingham Forest,NFO,30.0,30 years 60 days,United States,7.0
+2023/24,359331.0,Wes Foderingham,Wes,Foderingham,G,21.0,Goalkeeper,Sheffield United,SHU,28.0,33 years 222 days,England,10.0
+2023/24,314431.0,Alphonse Areola,Alphonse,Areola,G,23.0,Goalkeeper,West Ham United,WHU,27.0,31 years 178 days,France,11.0
+2023/24,322361.0,Neto,Norberto,Murara Neto,G,1.0,Goalkeeper,Bournemouth,BOU,26.0,35 years 35 days,Brazil,12.0
+2023/24,44029.0,Ederson,Ederson,Santana de Moraes,G,31.0,Goalkeeper,Manchester City,MCI,25.0,31 years 6 days,Brazil,13.0
+2023/24,314643.0,Sam Johnstone,Sam,Johnstone,G,32.0,Goalkeeper,Crystal Palace,CRY,24.0,31 years 151 days,England,14.0
+2023/24,325525.0,Martin Dúbravka,Martin,Dúbravka,G,31.0,Goalkeeper,Newcastle United,NEW,20.0,35 years 221 days,Slovakia,15.0
+2023/24,361625.0,Arijanet Muric,Arijanet,Muric,G,1.0,Goalkeeper,Burnley,BUR,20.0,25 years 290 days,Kosovo,15.0
+2023/24,346132.0,Djordje Petrovic,Djordje,Petrovic,G,28.0,Goalkeeper,Chelsea,CHE,20.0,24 years 320 days,Serbia,15.0
+2023/24,321656.0,Bernd Leno,Bernd,Leno,G,1.0,Goalkeeper,Fulham,FUL,19.0,32 years 172 days,Germany,18.0
+2023/24,343670.0,Robert Sánchez,Robert,Sánchez,G,1.0,Goalkeeper,Chelsea,CHE,19.0,26 years 279 days,Spain,18.0
+2023/24,340943.0,Bart Verbruggen,Bart,Verbruggen,G,1.0,Goalkeeper,Brighton & Hove Albion,BHA,17.0,22 years 5 days,Netherlands,20.0
+2023/24,343604.0,Thomas Kaminski,Thomas,Kaminski,G,24.0,Goalkeeper,Luton Town,LUT,16.0,31 years 305 days,Belgium,21.0
+2023/24,133131.0,Alisson Becker,Alisson Ramsés,Becker,G,1.0,Goalkeeper,Liverpool,LIV,13.0,31 years 326 days,Brazil,22.0
+2023/24,356312.0,Ivo Grbic,Ivo,Grbic,G,13.0,Goalkeeper,Sheffield United,SHU,11.0,28 years 218 days,Croatia,23.0
+2023/24,356625.0,Matz Sels,Matz,Sels,G,26.0,Goalkeeper,Nottingham Forest,NFO,11.0,32 years 179 days,Belgium,23.0
+2023/24,313738.0,Nick Pope,Nick,Pope,G,22.0,Goalkeeper,Newcastle United,NEW,9.0,32 years 126 days,England,25.0
+2023/24,129917.0,Lukasz Fabianski,Lukasz,Fabianski,G,1.0,Goalkeeper,West Ham United,WHU,8.0,39 years 127 days,Poland,26.0
+2023/24,288169.0,Aaron Ramsdale,Aaron,Ramsdale,G,1.0,Goalkeeper,Arsenal,ARS,8.0,26 years 101 days,England,26.0
+2023/24,135974.0,Jason Steele,Jason,Steele,G,n/a,Goalkeeper,Brighton & Hove Albion,BHA,7.0,34 years 5 days,England,28.0
+2023/24,312582.0,Robin Olsen,Robin,Olsen,G,25.0,Goalkeeper,Aston Villa,AVL,6.0,34 years 228 days,Sweden,29.0
+2023/24,314465.0,Stefan Ortega,Stefan,Ortega,G,18.0,Goalkeeper,Manchester City,MCI,6.0,31 years 291 days,Germany,29.0
+2023/24,346759.0,Dean Henderson,Dean,Henderson,G,1.0,Goalkeeper,Crystal Palace,CRY,5.0,27 years 164 days,England,31.0
+2023/24,256028.0,Caoimhín Kelleher,Caoimhín,Kelleher,G,62.0,Goalkeeper,Liverpool,LIV,5.0,25 years 274 days,Ireland,31.0
+2023/24,343141.0,Mark Travers,Mark,Travers,G,1.0,Goalkeeper,Bournemouth,BOU,3.0,25 years 97 days,Ireland,33.0
+2023/24,359412.0,Odysseas Vlachodimos,Odysseas,Vlachodimos,G,19.0,Goalkeeper,n/a,n/a,3.0,30 years 119 days,Greece,33.0
+2023/24,343284.0,Andrei Radu,Andrei,Radu,G,20.0,Goalkeeper,n/a,n/a,2.0,27 years 87 days,Romania,35.0
+2023/24,318212.0,Thomas Strakosha,Thomas,Strakosha,G,21.0,Goalkeeper,n/a,n/a,2.0,29 years 157 days,Albania,35.0
+2023/24,327268.0,Loris Karius,Loris,Karius,G,18.0,Goalkeeper,n/a,n/a,1.0,31 years 62 days,Germany,37.0
+2023/24,353823.0,Remi Matthews,Remi,Matthews,G,n/a,Goalkeeper,Crystal Palace,CRY,1.0,30 years 195 days,England,37.0
+2022/23,252275.0,Emiliano Martínez,Emiliano,Martínez,G,23.0,Goalkeeper,Aston Villa,AVL,60.0,31 years 356 days,Argentina,1.0
+2022/23,360351.0,David Raya,David,Raya,G,22.0,Goalkeeper,n/a,n/a,53.0,28 years 343 days,Spain,2.0
+2022/23,281359.0,José Sá,José Pedro,Malheiro de Sá,G,1.0,Goalkeeper,Wolverhampton Wanderers,WOL,43.0,31 years 219 days,Portugal,3.0
+2022/23,312832.0,Gavin Bazunu,Gavin,Bazunu,G,31.0,Goalkeeper,Southampton,SOU,36.0,22 years 185 days,Ireland,4.0
+2022/23,321656.0,Bernd Leno,Bernd,Leno,G,1.0,Goalkeeper,Fulham,FUL,35.0,32 years 172 days,Germany,5.0
+2022/23,186584.0,Illan Meslier,Illan,Meslier,G,1.0,Goalkeeper,Leeds United,LEE,34.0,24 years 174 days,France,6.0
+2022/23,322361.0,Neto,Norberto,Murara Neto,G,1.0,Goalkeeper,Bournemouth,BOU,34.0,35 years 35 days,Brazil,6.0
+2022/23,313738.0,Nick Pope,Nick,Pope,G,22.0,Goalkeeper,Newcastle United,NEW,34.0,32 years 126 days,England,6.0
+2022/23,129917.0,Lukasz Fabianski,Lukasz,Fabianski,G,1.0,Goalkeeper,West Ham United,WHU,29.0,39 years 127 days,Poland,9.0
+2022/23,346855.0,Vicente Guaita,Vicente,Guaita,G,13.0,Goalkeeper,n/a,n/a,26.0,37 years 226 days,Spain,10.0
+2022/23,133131.0,Alisson Becker,Alisson Ramsés,Becker,G,1.0,Goalkeeper,Liverpool,LIV,23.0,31 years 326 days,Brazil,11.0
+2022/23,46085.0,Jordan Pickford,Jordan,Pickford,G,n/a,Goalkeeper,Everton,EVE,22.0,30 years 169 days,England,12.0
+2022/23,288169.0,Aaron Ramsdale,Aaron,Ramsdale,G,1.0,Goalkeeper,Arsenal,ARS,22.0,26 years 101 days,England,12.0
+2022/23,346759.0,Dean Henderson,Dean,Henderson,G,1.0,Goalkeeper,n/a,n/a,20.0,27 years 164 days,England,14.0
+2022/23,25178.0,Hugo Lloris,Hugo,Lloris,G,1.0,Goalkeeper,n/a,n/a,20.0,37 years 241 days,France,14.0
+2022/23,357590.0,Danny Ward,Danny,Ward,G,n/a,Goalkeeper,Leicester City,LEI,20.0,31 years 62 days,Wales,14.0
+2022/23,44029.0,Ederson,Ederson,Santana de Moraes,G,31.0,Goalkeeper,Manchester City,MCI,19.0,31 years 6 days,Brazil,17.0
+2022/23,343670.0,Robert Sánchez,Robert,Sánchez,G,1.0,Goalkeeper,n/a,n/a,17.0,26 years 279 days,Spain,18.0
+2022/23,355030.0,Daniel Iversen,Daniel,Iversen,G,1.0,Goalkeeper,Leicester City,LEI,16.0,27 years 35 days,Denmark,19.0
+2022/23,345016.0,Kepa,Kepa,Arrizabalaga Revuelta,G,25.0,Goalkeeper,Chelsea,CHE,15.0,29 years 325 days,Spain,20.0
+2022/23,6011.0,David de Gea,David,de Gea,G,1.0,Goalkeeper,n/a,n/a,15.0,33 years 290 days,Spain,20.0
+2022/23,337946.0,Keylor Navas,Keylor,Navas,G,12.0,Goalkeeper,n/a,n/a,14.0,37 years 252 days,Costa Rica,22.0
+2022/23,135974.0,Jason Steele,Jason,Steele,G,n/a,Goalkeeper,Brighton & Hove Albion,BHA,10.0,34 years 5 days,England,23.0
+2022/23,256071.0,Édouard Mendy,Édouard,Mendy,G,16.0,Goalkeeper,n/a,n/a,9.0,32 years 175 days,Senegal,24.0
+2022/23,35190.0,Alex McCarthy,Alex,McCarthy,G,13.0,Goalkeeper,Southampton,SOU,6.0,34 years 264 days,England,25.0
+2022/23,353590.0,Dan Bentley,Dan,Bentley,G,25.0,Goalkeeper,Wolverhampton Wanderers,WOL,5.0,31 years 41 days,England,26.0
+2022/23,312587.0,Fraser Forster,Fraser,Forster,G,20.0,Goalkeeper,Tottenham Hotspur,TOT,5.0,36 years 159 days,England,26.0
+2022/23,312582.0,Robin Olsen,Robin,Olsen,G,25.0,Goalkeeper,Aston Villa,AVL,5.0,34 years 228 days,Sweden,26.0
+2022/23,343141.0,Mark Travers,Mark,Travers,G,1.0,Goalkeeper,n/a,n/a,5.0,25 years 97 days,Ireland,26.0
+2022/23,314431.0,Alphonse Areola,Alphonse,Areola,G,23.0,Goalkeeper,West Ham United,WHU,2.0,31 years 178 days,France,30.0
+2022/23,314643.0,Sam Johnstone,Sam,Johnstone,G,32.0,Goalkeeper,Crystal Palace,CRY,2.0,31 years 151 days,England,30.0
+2022/23,322448.0,Joel Robles,Joel,Robles,G,22.0,Goalkeeper,Leeds United,LEE,2.0,34 years 67 days,Spain,30.0
+2022/23,363204.0,Asmir Begovic,Asmir,Begovic,G,n/a,Goalkeeper,n/a,n/a,1.0,37 years 64 days,Bosnia & Herzegovina,33.0
+2022/23,325525.0,Martin Dúbravka,Martin,Dúbravka,G,31.0,Goalkeeper,Newcastle United,NEW,1.0,35 years 221 days,Slovakia,33.0
+2022/23,318563.0,Wayne Hennessey,Wayne,Hennessey,G,13.0,Goalkeeper,n/a,n/a,1.0,37 years 212 days,Wales,33.0
+2022/23,314465.0,Stefan Ortega,Stefan,Ortega,G,18.0,Goalkeeper,Manchester City,MCI,1.0,31 years 291 days,Germany,33.0
+2022/23,20301.0,Marek Rodák,Marek,Rodák,G,13.0,Goalkeeper,n/a,n/a,1.0,27 years 254 days,Slovakia,33.0
+2022/23,361151.0,Joe Whitworth,Joe,Whitworth,G,1.0,Goalkeeper,n/a,n/a,1.0,20 years 176 days,England,33.0
+2021/22,343670.0,Robert Sánchez,Robert,Sánchez,G,1.0,Goalkeeper,n/a,n/a,60.0,26 years 279 days,Spain,1.0
+2021/22,313738.0,Nick Pope,Nick,Pope,G,22.0,Goalkeeper,Burnley,BUR,46.0,32 years 126 days,England,2.0
+2021/22,281359.0,José Sá,José Pedro,Malheiro de Sá,G,1.0,Goalkeeper,Wolverhampton Wanderers,WOL,43.0,31 years 219 days,Portugal,3.0
+2021/22,252275.0,Emiliano Martínez,Emiliano,Martínez,G,23.0,Goalkeeper,Aston Villa,AVL,34.0,31 years 356 days,Argentina,4.0
+2021/22,25178.0,Hugo Lloris,Hugo,Lloris,G,1.0,Goalkeeper,n/a,n/a,33.0,37 years 241 days,France,5.0
+2021/22,129917.0,Lukasz Fabianski,Lukasz,Fabianski,G,1.0,Goalkeeper,West Ham United,WHU,28.0,39 years 127 days,Poland,6.0
+2021/22,256071.0,Édouard Mendy,Édouard,Mendy,G,16.0,Goalkeeper,n/a,n/a,28.0,32 years 175 days,Senegal,6.0
+2021/22,360351.0,David Raya,David,Raya,G,22.0,Goalkeeper,n/a,n/a,27.0,28 years 343 days,Spain,8.0
+2021/22,288169.0,Aaron Ramsdale,Aaron,Ramsdale,G,1.0,Goalkeeper,Arsenal,ARS,26.0,26 years 101 days,England,9.0
+2021/22,186584.0,Illan Meslier,Illan,Meslier,G,1.0,Goalkeeper,Leeds United,LEE,23.0,24 years 174 days,France,10.0
+2021/22,46085.0,Jordan Pickford,Jordan,Pickford,G,n/a,Goalkeeper,Everton,EVE,23.0,30 years 169 days,England,10.0
+2021/22,133131.0,Alisson Becker,Alisson Ramsés,Becker,G,1.0,Goalkeeper,Liverpool,LIV,22.0,31 years 326 days,Brazil,12.0
+2021/22,35190.0,Alex McCarthy,Alex,McCarthy,G,13.0,Goalkeeper,Southampton,SOU,22.0,34 years 264 days,England,12.0
+2021/22,325525.0,Martin Dúbravka,Martin,Dúbravka,G,31.0,Goalkeeper,Newcastle United,NEW,21.0,35 years 221 days,Slovakia,14.0
+2021/22,44029.0,Ederson,Ederson,Santana de Moraes,G,31.0,Goalkeeper,Manchester City,MCI,21.0,31 years 6 days,Brazil,14.0
+2021/22,339679.0,Ben Foster,Ben,Foster,G,12.0,Goalkeeper,Watford,WAT,20.0,41 years 142 days,England,16.0
+2021/22,312587.0,Fraser Forster,Fraser,Forster,G,20.0,Goalkeeper,n/a,n/a,18.0,36 years 159 days,England,17.0
+2021/22,346855.0,Vicente Guaita,Vicente,Guaita,G,13.0,Goalkeeper,n/a,n/a,17.0,37 years 226 days,Spain,18.0
+2021/22,361188.0,Kasper Schmeichel,Kasper,Schmeichel,G,1.0,Goalkeeper,n/a,n/a,15.0,37 years 292 days,Denmark,19.0
+2021/22,354397.0,Tim Krul,Tim,Krul,G,n/a,Goalkeeper,n/a,n/a,14.0,36 years 142 days,Netherlands,20.0
+2021/22,347041.0,Jack Butland,Jack,Butland,G,1.0,Goalkeeper,n/a,n/a,11.0,31 years 166 days,England,21.0
+2021/22,362771.0,Álvaro Fernández,Álvaro,Fernández,G,1.0,Goalkeeper,n/a,n/a,9.0,26 years 132 days,Spain,22.0
+2021/22,6011.0,David de Gea,David,de Gea,G,1.0,Goalkeeper,n/a,n/a,8.0,33 years 290 days,Spain,23.0
+2021/22,180847.0,Daniel Bachmann,Daniel,Bachmann,G,26.0,Goalkeeper,Watford,WAT,7.0,30 years 45 days,Austria,24.0
+2021/22,321656.0,Bernd Leno,Bernd,Leno,G,1.0,Goalkeeper,n/a,n/a,6.0,32 years 172 days,Germany,25.0
+2021/22,343383.0,Karl Darlow,Karl,Darlow,G,26.0,Goalkeeper,n/a,n/a,5.0,33 years 320 days,England,26.0
+2021/22,312582.0,Robin Olsen,Robin,Olsen,G,25.0,Goalkeeper,Aston Villa,AVL,5.0,34 years 228 days,Sweden,26.0
+2021/22,363204.0,Asmir Begovic,Asmir,Begovic,G,n/a,Goalkeeper,n/a,n/a,3.0,37 years 64 days,Bosnia & Herzegovina,28.0
+2021/22,277023.0,Angus Gunn,Angus,Gunn,G,1.0,Goalkeeper,Norwich City,NOR,3.0,28 years 214 days,Scotland,28.0
+2021/22,313184.0,Freddie Woodman,Freddie,Woodman,G,1.0,Goalkeeper,Newcastle United,NEW,3.0,27 years 172 days,England,28.0
+2021/22,345016.0,Kepa,Kepa,Arrizabalaga Revuelta,G,25.0,Goalkeeper,Chelsea,CHE,2.0,29 years 325 days,Spain,31.0
+2021/22,314431.0,Alphonse Areola,Alphonse,Areola,G,23.0,Goalkeeper,West Ham United,WHU,1.0,31 years 178 days,France,32.0
+2021/22,334293.0,Willy Caballero,Willy,Caballero,G,1.0,Goalkeeper,Southampton,SOU,1.0,42 years 330 days,Argentina,32.0
+2021/22,299538.0,Jonas Lössl,Jonas,Lössl,G,49.0,Goalkeeper,Brentford,BRE,1.0,35 years 204 days,Denmark,32.0
+2021/22,359411.0,John Ruddy,John,Ruddy,G,26.0,Goalkeeper,n/a,n/a,1.0,37 years 304 days,England,32.0
+2021/22,356706.0,Jed Steer,Jed,Steer,G,31.0,Goalkeeper,n/a,n/a,1.0,31 years 335 days,England,32.0
+2021/22,357590.0,Danny Ward,Danny,Ward,G,n/a,Goalkeeper,Leicester City,LEI,1.0,31 years 62 days,Wales,32.0
+2021/22,318563.0,Wayne Hennessey,Wayne,Hennessey,G,13.0,Goalkeeper,Burnley,BUR,0.0,37 years 212 days,Wales,38.0
+2020/21,252275.0,Emiliano Martínez,Emiliano,Martínez,G,23.0,Goalkeeper,Aston Villa,AVL,42.0,31 years 356 days,Argentina,1.0
+2020/21,288169.0,Aaron Ramsdale,Aaron,Ramsdale,G,1.0,Goalkeeper,n/a,n/a,33.0,26 years 101 days,England,2.0
+2020/21,313738.0,Nick Pope,Nick,Pope,G,22.0,Goalkeeper,Burnley,BUR,32.0,32 years 126 days,England,3.0
+2020/21,314431.0,Alphonse Areola,Alphonse,Areola,G,23.0,Goalkeeper,Fulham,FUL,26.0,31 years 178 days,France,4.0
+2020/21,129917.0,Lukasz Fabianski,Lukasz,Fabianski,G,1.0,Goalkeeper,West Ham United,WHU,26.0,39 years 127 days,Poland,4.0
+2020/21,186584.0,Illan Meslier,Illan,Meslier,G,1.0,Goalkeeper,Leeds United,LEE,24.0,24 years 174 days,France,6.0
+2020/21,25178.0,Hugo Lloris,Hugo,Lloris,G,1.0,Goalkeeper,n/a,n/a,23.0,37 years 241 days,France,7.0
+2020/21,35190.0,Alex McCarthy,Alex,McCarthy,G,13.0,Goalkeeper,Southampton,SOU,23.0,34 years 264 days,England,7.0
+2020/21,343670.0,Robert Sánchez,Robert,Sánchez,G,1.0,Goalkeeper,n/a,n/a,22.0,26 years 279 days,Spain,9.0
+2020/21,280895.0,Rui Patrício,Rui Pedro,dos Santos Patrício,G,1.0,Goalkeeper,n/a,n/a,21.0,36 years 190 days,Portugal,10.0
+2020/21,133131.0,Alisson Becker,Alisson Ramsés,Becker,G,1.0,Goalkeeper,Liverpool,LIV,20.0,31 years 326 days,Brazil,11.0
+2020/21,314643.0,Sam Johnstone,Sam,Johnstone,G,32.0,Goalkeeper,West Bromwich Albion,WBA,20.0,31 years 151 days,England,11.0
+2020/21,46085.0,Jordan Pickford,Jordan,Pickford,G,n/a,Goalkeeper,Everton,EVE,20.0,30 years 169 days,England,11.0
+2020/21,361188.0,Kasper Schmeichel,Kasper,Schmeichel,G,1.0,Goalkeeper,n/a,n/a,20.0,37 years 292 days,Denmark,11.0
+2020/21,346855.0,Vicente Guaita,Vicente,Guaita,G,13.0,Goalkeeper,n/a,n/a,19.0,37 years 226 days,Spain,15.0
+2020/21,44029.0,Ederson,Ederson,Santana de Moraes,G,31.0,Goalkeeper,Manchester City,MCI,19.0,31 years 6 days,Brazil,15.0
+2020/21,343383.0,Karl Darlow,Karl,Darlow,G,26.0,Goalkeeper,n/a,n/a,18.0,33 years 320 days,England,17.0
+2020/21,321656.0,Bernd Leno,Bernd,Leno,G,1.0,Goalkeeper,n/a,n/a,18.0,32 years 172 days,Germany,17.0
+2020/21,256071.0,Édouard Mendy,Édouard,Mendy,G,16.0,Goalkeeper,n/a,n/a,17.0,32 years 175 days,Senegal,19.0
+2020/21,361176.0,Mathew Ryan,Mathew,Ryan,G,98.0,Goalkeeper,n/a,n/a,12.0,32 years 137 days,Australia,20.0
+2020/21,325525.0,Martin Dúbravka,Martin,Dúbravka,G,31.0,Goalkeeper,Newcastle United,NEW,9.0,35 years 221 days,Slovakia,21.0
+2020/21,346759.0,Dean Henderson,Dean,Henderson,G,1.0,Goalkeeper,n/a,n/a,9.0,27 years 164 days,England,21.0
+2020/21,312587.0,Fraser Forster,Fraser,Forster,G,20.0,Goalkeeper,n/a,n/a,6.0,36 years 159 days,England,23.0
+2020/21,322884.0,Kiko Casilla,Francisco,Casilla Cortés,G,1.0,Goalkeeper,Leeds United,LEE,4.0,37 years 326 days,Spain,24.0
+2020/21,312582.0,Robin Olsen,Robin,Olsen,G,25.0,Goalkeeper,n/a,n/a,4.0,34 years 228 days,Sweden,24.0
+2020/21,345016.0,Kepa,Kepa,Arrizabalaga Revuelta,G,25.0,Goalkeeper,Chelsea,CHE,3.0,29 years 325 days,Spain,26.0
+2020/21,359411.0,John Ruddy,John,Ruddy,G,26.0,Goalkeeper,n/a,n/a,3.0,37 years 304 days,England,26.0
+2020/21,6011.0,David de Gea,David,de Gea,G,1.0,Goalkeeper,n/a,n/a,2.0,33 years 290 days,Spain,28.0
+2020/21,340592.0,Will Norris,Will,Norris,G,1.0,Goalkeeper,n/a,n/a,2.0,31 years 11 days,England,28.0
+2020/21,347041.0,Jack Butland,Jack,Butland,G,1.0,Goalkeeper,n/a,n/a,1.0,31 years 166 days,England,30.0
+2020/21,256028.0,Caoimhín Kelleher,Caoimhín,Kelleher,G,62.0,Goalkeeper,Liverpool,LIV,1.0,25 years 274 days,Ireland,30.0
+2020/21,138615.0,João Virgínia,João Manuel,Neves Virgínia,G,12.0,Goalkeeper,Everton,EVE,1.0,24 years 318 days,Portugal,30.0
+2020/21,20301.0,Marek Rodák,Marek,Rodák,G,13.0,Goalkeeper,n/a,n/a,1.0,27 years 254 days,Slovakia,30.0
+2020/21,361516.0,Bailey Peacock-Farrell,Bailey,Peacock-Farrell,G,45.0,Goalkeeper,Burnley,BUR,0.0,27 years 299 days,Northern Ireland,34.0
+2019/20,313738.0,Nick Pope,Nick,Pope,G,22.0,Goalkeeper,Burnley,BUR,52.0,32 years 126 days,England,1.0
+2019/20,339679.0,Ben Foster,Ben,Foster,G,12.0,Goalkeeper,Watford,WAT,30.0,41 years 142 days,England,2.0
+2019/20,354397.0,Tim Krul,Tim,Krul,G,n/a,Goalkeeper,n/a,n/a,29.0,36 years 142 days,Netherlands,3.0
+2019/20,35190.0,Alex McCarthy,Alex,McCarthy,G,13.0,Goalkeeper,Southampton,SOU,25.0,34 years 264 days,England,4.0
+2019/20,46085.0,Jordan Pickford,Jordan,Pickford,G,n/a,Goalkeeper,Everton,EVE,24.0,30 years 169 days,England,5.0
+2019/20,346855.0,Vicente Guaita,Vicente,Guaita,G,13.0,Goalkeeper,n/a,n/a,23.0,37 years 226 days,Spain,6.0
+2019/20,325525.0,Martin Dúbravka,Martin,Dúbravka,G,31.0,Goalkeeper,Newcastle United,NEW,21.0,35 years 221 days,Slovakia,7.0
+2019/20,345016.0,Kepa,Kepa,Arrizabalaga Revuelta,G,25.0,Goalkeeper,Chelsea,CHE,20.0,29 years 325 days,Spain,8.0
+2019/20,280895.0,Rui Patrício,Rui Pedro,dos Santos Patrício,G,1.0,Goalkeeper,n/a,n/a,20.0,36 years 190 days,Portugal,8.0
+2019/20,346759.0,Dean Henderson,Dean,Henderson,G,1.0,Goalkeeper,n/a,n/a,20.0,27 years 164 days,England,8.0
+2019/20,288169.0,Aaron Ramsdale,Aaron,Ramsdale,G,1.0,Goalkeeper,n/a,n/a,20.0,26 years 101 days,England,8.0
+2019/20,361176.0,Mathew Ryan,Mathew,Ryan,G,98.0,Goalkeeper,n/a,n/a,20.0,32 years 137 days,Australia,8.0
+2019/20,321656.0,Bernd Leno,Bernd,Leno,G,1.0,Goalkeeper,n/a,n/a,17.0,32 years 172 days,Germany,13.0
+2019/20,25178.0,Hugo Lloris,Hugo,Lloris,G,1.0,Goalkeeper,n/a,n/a,16.0,37 years 241 days,France,14.0
+2019/20,44029.0,Ederson,Ederson,Santana de Moraes,G,31.0,Goalkeeper,Manchester City,MCI,14.0,31 years 6 days,Brazil,15.0
+2019/20,361188.0,Kasper Schmeichel,Kasper,Schmeichel,G,1.0,Goalkeeper,n/a,n/a,14.0,37 years 292 days,Denmark,15.0
+2019/20,129917.0,Lukasz Fabianski,Lukasz,Fabianski,G,1.0,Goalkeeper,West Ham United,WHU,11.0,39 years 127 days,Poland,17.0
+2019/20,277767.0,Tom Heaton,Tom,Heaton,G,22.0,Goalkeeper,n/a,n/a,11.0,38 years 130 days,England,17.0
+2019/20,133131.0,Alisson Becker,Alisson Ramsés,Becker,G,1.0,Goalkeeper,Liverpool,LIV,10.0,31 years 326 days,Brazil,19.0
+2019/20,6011.0,David de Gea,David,de Gea,G,1.0,Goalkeeper,n/a,n/a,10.0,33 years 290 days,Spain,19.0
+2019/20,252275.0,Emiliano Martínez,Emiliano,Martínez,G,23.0,Goalkeeper,n/a,n/a,8.0,31 years 356 days,Argentina,21.0
+2019/20,127990.0,Pepe Reina,Pepe,Reina,G,1.0,Goalkeeper,n/a,n/a,8.0,41 years 358 days,Spain,21.0
+2019/20,340726.0,Paulo Gazzaniga,Paulo,Gazzaniga,G,13.0,Goalkeeper,n/a,n/a,7.0,32 years 234 days,Argentina,23.0
+2019/20,101878.0,Adrián,Adrián,San Miguel del Castillo,G,13.0,Goalkeeper,n/a,n/a,7.0,37 years 233 days,Spain,23.0
+2019/20,277023.0,Angus Gunn,Angus,Gunn,G,1.0,Goalkeeper,n/a,n/a,4.0,28 years 214 days,Scotland,25.0
+2019/20,345203.0,Ørjan Nyland,Ørjan,Nyland,G,13.0,Goalkeeper,n/a,n/a,4.0,33 years 348 days,Norway,25.0
+2019/20,202618.0,Claudio Bravo,Claudio,Bravo,G,25.0,Goalkeeper,n/a,n/a,1.0,41 years 132 days,Chile,27.0
+2019/20,334293.0,Willy Caballero,Willy,Caballero,G,1.0,Goalkeeper,n/a,n/a,1.0,42 years 330 days,Argentina,27.0
+2019/20,160300.0,Ralf Fährmann,Ralf,Fährmann,G,21.0,Goalkeeper,n/a,n/a,1.0,35 years 331 days,Germany,27.0
+2019/20,57526.0,David Martin,David,Martin,G,18.0,Goalkeeper,West Ham United,WHU,1.0,38 years 214 days,England,27.0
+2018/19,325525.0,Martin Dúbravka,Martin,Dúbravka,G,31.0,Goalkeeper,Newcastle United,NEW,43.0,35 years 221 days,Slovakia,1.0
+2018/19,339679.0,Ben Foster,Ben,Foster,G,12.0,Goalkeeper,Watford,WAT,32.0,41 years 142 days,England,2.0
+2018/19,129917.0,Lukasz Fabianski,Lukasz,Fabianski,G,1.0,Goalkeeper,West Ham United,WHU,29.0,39 years 127 days,Poland,3.0
+2018/19,363204.0,Asmir Begovic,Asmir,Begovic,G,n/a,Goalkeeper,n/a,n/a,24.0,37 years 64 days,Bosnia & Herzegovina,4.0
+2018/19,299538.0,Jonas Lössl,Jonas,Lössl,G,49.0,Goalkeeper,Huddersfield Town,HUD,24.0,35 years 204 days,Denmark,4.0
+2018/19,44029.0,Ederson,Ederson,Santana de Moraes,G,31.0,Goalkeeper,Manchester City,MCI,19.0,31 years 6 days,Brazil,6.0
+2018/19,361176.0,Mathew Ryan,Mathew,Ryan,G,98.0,Goalkeeper,n/a,n/a,17.0,32 years 137 days,Australia,7.0
+2018/19,133131.0,Alisson Becker,Alisson Ramsés,Becker,G,1.0,Goalkeeper,Liverpool,LIV,16.0,31 years 326 days,Brazil,8.0
+2018/19,234882.0,Neil Etheridge,Neil,Etheridge,G,1.0,Goalkeeper,n/a,n/a,15.0,34 years 198 days,Philippines,9.0
+2018/19,35190.0,Alex McCarthy,Alex,McCarthy,G,13.0,Goalkeeper,Southampton,SOU,15.0,34 years 264 days,England,9.0
+2018/19,345016.0,Kepa,Kepa,Arrizabalaga Revuelta,G,25.0,Goalkeeper,Chelsea,CHE,14.0,29 years 325 days,Spain,11.0
+2018/19,280895.0,Rui Patrício,Rui Pedro,dos Santos Patrício,G,1.0,Goalkeeper,n/a,n/a,14.0,36 years 190 days,Portugal,11.0
+2018/19,318563.0,Wayne Hennessey,Wayne,Hennessey,G,13.0,Goalkeeper,n/a,n/a,14.0,37 years 212 days,Wales,11.0
+2018/19,46085.0,Jordan Pickford,Jordan,Pickford,G,n/a,Goalkeeper,Everton,EVE,14.0,30 years 169 days,England,11.0
+2018/19,346855.0,Vicente Guaita,Vicente,Guaita,G,13.0,Goalkeeper,n/a,n/a,13.0,37 years 226 days,Spain,15.0
+2018/19,25178.0,Hugo Lloris,Hugo,Lloris,G,1.0,Goalkeeper,n/a,n/a,13.0,37 years 241 days,France,15.0
+2018/19,361188.0,Kasper Schmeichel,Kasper,Schmeichel,G,1.0,Goalkeeper,n/a,n/a,12.0,37 years 292 days,Denmark,17.0
+2018/19,321656.0,Bernd Leno,Bernd,Leno,G,1.0,Goalkeeper,n/a,n/a,10.0,32 years 172 days,Germany,18.0
+2018/19,6011.0,David de Gea,David,de Gea,G,1.0,Goalkeeper,n/a,n/a,9.0,33 years 290 days,Spain,19.0
+2018/19,277767.0,Tom Heaton,Tom,Heaton,G,22.0,Goalkeeper,n/a,n/a,8.0,38 years 130 days,England,20.0
+2018/19,266361.0,Petr Cech,Petr,Cech,G,1.0,Goalkeeper,n/a,n/a,6.0,42 years 95 days,Czech Republic,21.0
+2018/19,289224.0,Joe Hart,Joe,Hart,G,1.0,Goalkeeper,n/a,n/a,6.0,37 years 126 days,England,21.0
+2018/19,301337.0,Sergio Rico,Sergio,Rico,G,25.0,Goalkeeper,Fulham,FUL,6.0,30 years 357 days,Spain,21.0
+2018/19,277023.0,Angus Gunn,Angus,Gunn,G,1.0,Goalkeeper,n/a,n/a,5.0,28 years 214 days,Scotland,24.0
+2018/19,359396.0,Ben Hamer,Ben,Hamer,G,n/a,Goalkeeper,n/a,n/a,5.0,36 years 277 days,England,24.0
+2018/19,289289.0,Artur Boruc,Artur,Boruc,G,1.0,Goalkeeper,n/a,n/a,4.0,44 years 185 days,Poland,26.0
+2018/19,344972.0,David Button,David,Button,G,1.0,Goalkeeper,n/a,n/a,3.0,35 years 178 days,England,27.0
+2018/19,352583.0,Fabri,Fabricio,Agosto Ramírez,G,1.0,Goalkeeper,n/a,n/a,2.0,36 years 236 days,Spain,28.0
+2018/19,334293.0,Willy Caballero,Willy,Caballero,G,1.0,Goalkeeper,n/a,n/a,2.0,42 years 330 days,Argentina,28.0
+2018/19,340726.0,Paulo Gazzaniga,Paulo,Gazzaniga,G,13.0,Goalkeeper,n/a,n/a,2.0,32 years 234 days,Argentina,28.0
+2018/19,283840.0,Marcus Bettinelli,Marcus,Bettinelli,G,13.0,Goalkeeper,n/a,n/a,1.0,32 years 91 days,England,31.0
+2018/19,340787.0,Joel Coleman,Joel,Coleman,G,13.0,Goalkeeper,n/a,n/a,1.0,28 years 332 days,England,31.0
+2018/19,359411.0,John Ruddy,John,Ruddy,G,26.0,Goalkeeper,n/a,n/a,1.0,37 years 304 days,England,31.0
+2018/19,21225.0,Julian Speroni,Julian,Speroni,G,n/a,Goalkeeper,n/a,n/a,1.0,45 years 97 days,Argentina,31.0
+2018/19,166315.0,Michel Vorm,Michel,Vorm,G,13.0,Goalkeeper,n/a,n/a,1.0,40 years 308 days,Netherlands,31.0
+2017/18,313738.0,Nick Pope,Nick,Pope,G,22.0,Goalkeeper,Burnley,BUR,57.0,32 years 126 days,England,1.0
+2017/18,129917.0,Lukasz Fabianski,Lukasz,Fabianski,G,1.0,Goalkeeper,Swansea City,SWA,42.0,39 years 127 days,Poland,2.0
+2017/18,361176.0,Mathew Ryan,Mathew,Ryan,G,98.0,Goalkeeper,n/a,n/a,38.0,32 years 137 days,Australia,3.0
+2017/18,339679.0,Ben Foster,Ben,Foster,G,12.0,Goalkeeper,West Bromwich Albion,WBA,37.0,41 years 142 days,England,4.0
+2017/18,363204.0,Asmir Begovic,Asmir,Begovic,G,n/a,Goalkeeper,n/a,n/a,35.0,37 years 64 days,Bosnia & Herzegovina,5.0
+2017/18,266361.0,Petr Cech,Petr,Cech,G,1.0,Goalkeeper,n/a,n/a,33.0,42 years 95 days,Czech Republic,6.0
+2017/18,318563.0,Wayne Hennessey,Wayne,Hennessey,G,13.0,Goalkeeper,n/a,n/a,31.0,37 years 212 days,Wales,7.0
+2017/18,299538.0,Jonas Lössl,Jonas,Lössl,G,49.0,Goalkeeper,n/a,n/a,31.0,35 years 204 days,Denmark,7.0
+2017/18,361188.0,Kasper Schmeichel,Kasper,Schmeichel,G,1.0,Goalkeeper,n/a,n/a,28.0,37 years 292 days,Denmark,9.0
+2017/18,46085.0,Jordan Pickford,Jordan,Pickford,G,n/a,Goalkeeper,n/a,n/a,27.0,30 years 169 days,England,10.0
+2017/18,135209.0,Thibaut Courtois,Thibaut,Courtois,G,1.0,Goalkeeper,n/a,n/a,26.0,32 years 104 days,Belgium,11.0
+2017/18,347041.0,Jack Butland,Jack,Butland,G,1.0,Goalkeeper,n/a,n/a,25.0,31 years 166 days,England,12.0
+2017/18,35190.0,Alex McCarthy,Alex,McCarthy,G,13.0,Goalkeeper,Southampton,SOU,19.0,34 years 264 days,England,13.0
+2017/18,44029.0,Ederson,Ederson,Santana de Moraes,G,31.0,Goalkeeper,Manchester City,MCI,19.0,31 years 6 days,Brazil,13.0
+2017/18,25178.0,Hugo Lloris,Hugo,Lloris,G,1.0,Goalkeeper,n/a,n/a,17.0,37 years 241 days,France,15.0
+2017/18,6011.0,David de Gea,David,de Gea,G,1.0,Goalkeeper,n/a,n/a,16.0,33 years 290 days,Spain,16.0
+2017/18,15253.0,Heurelho Gomes,Heurelho,da Silva Gomes,G,1.0,Goalkeeper,n/a,n/a,15.0,43 years 190 days,Brazil,17.0
+2017/18,328883.0,Robert Elliot,Robert,Elliot,G,37.0,Goalkeeper,n/a,n/a,15.0,38 years 115 days,Ireland,17.0
+2017/18,162448.0,Simon Mignolet,Simon,Mignolet,G,22.0,Goalkeeper,n/a,n/a,15.0,36 years 170 days,Belgium,17.0
+2017/18,325525.0,Martin Dúbravka,Martin,Dúbravka,G,31.0,Goalkeeper,n/a,n/a,13.0,35 years 221 days,Slovakia,20.0
+2017/18,101878.0,Adrián,Adrián,San Miguel del Castillo,G,13.0,Goalkeeper,n/a,n/a,13.0,37 years 233 days,Spain,20.0
+2017/18,343383.0,Karl Darlow,Karl,Darlow,G,26.0,Goalkeeper,n/a,n/a,11.0,33 years 320 days,England,22.0
+2017/18,312587.0,Fraser Forster,Fraser,Forster,G,20.0,Goalkeeper,n/a,n/a,10.0,36 years 159 days,England,23.0
+2017/18,327268.0,Loris Karius,Loris,Karius,G,18.0,Goalkeeper,Liverpool,LIV,10.0,31 years 62 days,Germany,23.0
+2017/18,258324.0,Orestis Karnezis,Orestis,Karnezis,G,1.0,Goalkeeper,n/a,n/a,10.0,39 years 43 days,Greece,23.0
+2017/18,336687.0,David Ospina,David,Ospina,G,n/a,Goalkeeper,n/a,n/a,6.0,35 years 358 days,Colombia,26.0
+2017/18,21225.0,Julian Speroni,Julian,Speroni,G,n/a,Goalkeeper,n/a,n/a,6.0,45 years 97 days,Argentina,26.0
+2017/18,289224.0,Joe Hart,Joe,Hart,G,1.0,Goalkeeper,n/a,n/a,4.0,37 years 126 days,England,28.0
+2017/18,32020.0,Boaz Myhill,Boaz,Myhill,G,1.0,Goalkeeper,West Bromwich Albion,WBA,3.0,41 years 288 days,Wales,29.0
+2017/18,202618.0,Claudio Bravo,Claudio,Bravo,G,25.0,Goalkeeper,n/a,n/a,2.0,41 years 132 days,Chile,30.0
+2017/18,340726.0,Paulo Gazzaniga,Paulo,Gazzaniga,G,13.0,Goalkeeper,n/a,n/a,2.0,32 years 234 days,Argentina,30.0
+2017/18,277767.0,Tom Heaton,Tom,Heaton,G,22.0,Goalkeeper,n/a,n/a,2.0,38 years 130 days,England,30.0
+2017/18,334293.0,Willy Caballero,Willy,Caballero,G,1.0,Goalkeeper,n/a,n/a,1.0,42 years 330 days,Argentina,33.0
+2017/18,277687.0,Lee Grant,Lee,Grant,G,n/a,Goalkeeper,Stoke City,STK,1.0,41 years 209 days,England,33.0
+2017/18,335710.0,Sergio Romero,Sergio,Romero,G,1.0,Goalkeeper,n/a,n/a,1.0,37 years 183 days,Argentina,33.0

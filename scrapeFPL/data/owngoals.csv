@@ -1,0 +1,259 @@
+Season,Player ID,Name,First Name,Last Name,Position,Shirt Number,Position Info,Current Team,Team Abbreviation,OwnGoals,Age,Nationality,Rank
+2024/25,339963.0,Ethan Pinnock,Ethan,Pinnock,D,n/a,Left/Centre Central Defender,Brentford,BRE,1.0,31 years 86 days,Jamaica,1.0
+2023/24,356532.0,Daiki Hashioka,Daiki,Hashioka,D,27.0,Right Full Back,Luton Town,LUT,2.0,25 years 98 days,Japan,1.0
+2023/24,252275.0,Emiliano Martínez,Emiliano,Martínez,G,23.0,Goalkeeper,Aston Villa,AVL,2.0,31 years 356 days,Argentina,1.0
+2023/24,345765.0,Konstantinos Mavropanos,Konstantinos,Mavropanos,D,15.0,Centre Central Defender,West Ham United,WHU,2.0,26 years 256 days,Greece,1.0
+2023/24,179282.0,Jack Robinson,Jack,Robinson,D,19.0,Left Full Back,Sheffield United,SHU,2.0,30 years 357 days,England,1.0
+2023/24,190129.0,Antonee Robinson,Antonee,Robinson,D,33.0,Left Full Back,Fulham,FUL,2.0,27 years 15 days,United States,1.0
+2023/24,336268.0,Ameen Al Dakhil,Ameen,Al Dakhil,D,28.0,Central Defender,Burnley,BUR,1.0,22 years 170 days,Belgium,6.0
+2023/24,357712.0,Oliver Arblaster,Oliver,Arblaster,M,n/a,Centre Central Midfielder,Sheffield United,SHU,1.0,20 years 110 days,England,6.0
+2023/24,314431.0,Alphonse Areola,Alphonse,Areola,G,23.0,Goalkeeper,West Ham United,WHU,1.0,31 years 178 days,France,6.0
+2023/24,335884.0,Benoît Badiashile,Benoît,Badiashile,D,5.0,Centre Central Defender,Chelsea,CHE,1.0,23 years 150 days,France,6.0
+2023/24,347658.0,Anis Ben Slimane,Anis,Ben Slimane,M,n/a,Midfielder,Sheffield United,SHU,1.0,23 years 160 days,Tunisia,6.0
+2023/24,361345.0,Jayden Bogle,Jayden,Bogle,D,2.0,Right Full Back,Sheffield United,SHU,1.0,24 years 27 days,England,6.0
+2023/24,313931.0,Sven Botman,Sven,Botman,D,4.0,Central Defender,Newcastle United,NEW,1.0,24 years 224 days,Netherlands,6.0
+2023/24,349256.0,Conor Bradley,Conor,Bradley,D,84.0,Right Full Back,Liverpool,LIV,1.0,21 years 45 days,Northern Ireland,6.0
+2023/24,362983.0,Hugo Bueno,Hugo,Bueno,D,16.0,Left Full Back,n/a,n/a,1.0,21 years 340 days,Spain,6.0
+2023/24,19302.0,Tom Cairney,Tom,Cairney,M,10.0,Left/Centre/Right Attacking Midfielder,Fulham,FUL,1.0,33 years 216 days,Scotland,6.0
+2023/24,211499.0,Matty Cash,Matty,Cash,D,2.0,Right Full Back,Aston Villa,AVL,1.0,27 years 16 days,Poland,6.0
+2023/24,94007.0,Séamus Coleman,Séamus,Coleman,D,n/a,Right Full Back,Everton,EVE,1.0,35 years 317 days,Ireland,6.0
+2023/24,346775.0,Murillo,Murillo Santiago,Costa dos Santos,D,5.0,Left/Centre Central Defender,Nottingham Forest,NFO,1.0,22 years 50 days,Brazil,6.0
+2023/24,322024.0,Marc Cucurella,Marc,Cucurella,D,3.0,Left Wing Back,Chelsea,CHE,1.0,26 years 32 days,Spain,6.0
+2023/24,343595.0,Axel Disasi,Axel,Disasi,D,2.0,Centre Central Defender,Chelsea,CHE,1.0,26 years 165 days,France,6.0
+2023/24,257590.0,Rúben Dias,Rúben,dos Santos Gato Alves Dias,D,3.0,Centre Central Defender,Manchester City,MCI,1.0,27 years 101 days,Portugal,6.0
+2023/24,202648.0,Gabriel Magalhães,Gabriel,dos Santos Magalhães,D,6.0,Centre Central Defender,Arsenal,ARS,1.0,26 years 248 days,Brazil,6.0
+2023/24,323410.0,Pervis Estupiñán,Pervis,Estupiñán,D,30.0,Left Full Back,Brighton & Hove Albion,BHA,1.0,26 years 215 days,Ecuador,6.0
+2023/24,359331.0,Wes Foderingham,Wes,Foderingham,G,21.0,Goalkeeper,Sheffield United,SHU,1.0,33 years 222 days,England,6.0
+2023/24,346759.0,Dean Henderson,Dean,Henderson,G,1.0,Goalkeeper,Crystal Palace,CRY,1.0,27 years 164 days,England,6.0
+2023/24,361468.0,Pierre-Emile Højbjerg,Pierre-Emile,Højbjerg,M,23.0,Centre Defensive Midfielder,n/a,n/a,1.0,29 years 18 days,Denmark,6.0
+2023/24,342616.0,Issa Kaboré,Issa,Kaboré,D,12.0,Right Full Back,Luton Town,LUT,1.0,23 years 103 days,Burkina Faso,6.0
+2023/24,342472.0,Milos Kerkez,Milos,Kerkez,D,3.0,Left Full Back,Bournemouth,BOU,1.0,20 years 290 days,Hungary,6.0
+2023/24,321656.0,Bernd Leno,Bernd,Leno,G,1.0,Goalkeeper,Fulham,FUL,1.0,32 years 172 days,Germany,6.0
+2023/24,202656.0,Tom Lockyer,Tom,Lockyer,D,4.0,Centre Central Defender,Luton Town,LUT,1.0,29 years 264 days,Wales,6.0
+2023/24,318813.0,Lisandro Martínez,Lisandro,Martínez,D,6.0,Central Defender,Manchester United,MUN,1.0,26 years 218 days,Argentina,6.0
+2023/24,43049.0,Joël Matip,Joël,Matip,D,32.0,Centre Central Defender,n/a,n/a,1.0,33 years 15 days,Cameroon,6.0
+2023/24,363133.0,Álex Moreno,Álex,Moreno,D,19.0,Left Full Back,n/a,n/a,1.0,31 years 76 days,Spain,6.0
+2023/24,361625.0,Arijanet Muric,Arijanet,Muric,G,1.0,Goalkeeper,Burnley,BUR,1.0,25 years 290 days,Kosovo,6.0
+2023/24,340626.0,Dara O'Shea,Dara,O'Shea,D,2.0,Centre Central Defender,Burnley,BUR,1.0,25 years 172 days,Ireland,6.0
+2023/24,347496.0,Andrew Omobamidele,Andrew,Omobamidele,D,12.0,Centre Central Defender,Nottingham Forest,NFO,1.0,22 years 61 days,Ireland,6.0
+2023/24,359341.0,Ben Osborn,Ben,Osborn,M,8.0,Midfielder,Sheffield United,SHU,1.0,30 years 18 days,England,6.0
+2023/24,324030.0,Emerson,Emerson,Palmieri dos Santos,D,33.0,Left Full Back,West Ham United,WHU,1.0,30 years 20 days,Italy,6.0
+2023/24,46085.0,Jordan Pickford,Jordan,Pickford,G,n/a,Goalkeeper,Everton,EVE,1.0,30 years 169 days,England,6.0
+2023/24,285389.0,Cristian Romero,Cristian,Romero,D,17.0,Centre Central Defender,Tottenham Hotspur,TOT,1.0,26 years 118 days,Argentina,6.0
+2023/24,20239.0,Son Heung-Min,Heung-Min,Son,F,7.0,Left/Centre/Right Winger,Tottenham Hotspur,TOT,1.0,32 years 46 days,South Korea,6.0
+2023/24,128164.0,Joel Ward,Joel,Ward,D,n/a,Defender,Crystal Palace,CRY,1.0,34 years 299 days,England,6.0
+2023/24,336893.0,Adam Webster,Adam,Webster,D,4.0,Defender,Brighton & Hove Albion,BHA,1.0,29 years 232 days,England,6.0
+2023/24,341954.0,Ashley Young,Ashley,Young,D,18.0,Defender,Everton,EVE,1.0,39 years 45 days,England,6.0
+2023/24,169744.0,Tyrick Mitchell,Tyrick,Mitchell,D,39.0,Left Full Back,Crystal Palace,CRY,0.0,24 years 357 days,England,45.0
+2023/24,312582.0,Robin Olsen,Robin,Olsen,G,25.0,Goalkeeper,Aston Villa,AVL,0.0,34 years 228 days,Sweden,45.0
+2023/24,259014.0,Tomás Soucek,Tomás,Soucek,M,28.0,Centre Defensive Midfielder,West Ham United,WHU,0.0,29 years 178 days,Czech Republic,45.0
+2022/23,363213.0,Joachim Andersen,Joachim,Andersen,D,5.0,Centre Central Defender,n/a,n/a,2.0,28 years 84 days,Denmark,1.0
+2022/23,325441.0,Wout Faes,Wout,Faes,D,3.0,Central Defender,Leicester City,LEI,2.0,26 years 142 days,Belgium,1.0
+2022/23,153012.0,Chris Mepham,Chris,Mepham,D,6.0,Centre Central Defender,Bournemouth,BOU,2.0,26 years 292 days,Wales,1.0
+2022/23,279691.0,Rayan Aït-Nouri,Rayan,Aït-Nouri,D,3.0,Left Full Back,Wolverhampton Wanderers,WOL,1.0,23 years 78 days,Algeria,4.0
+2022/23,341459.0,César Azpilicueta,César,Azpilicueta,D,3.0,Right Full Back,n/a,n/a,1.0,34 years 361 days,Spain,4.0
+2022/23,30517.0,Jan Bednarek,Jan,Bednarek,D,35.0,Centre Central Defender,Southampton,SOU,1.0,28 years 133 days,Poland,4.0
+2022/23,325150.0,Trevoh Chalobah,Trevoh,Chalobah,D,14.0,Centre Central Defender,Chelsea,CHE,1.0,25 years 49 days,England,4.0
+2022/23,300571.0,Lucas Digne,Lucas,Digne,D,12.0,Left Full Back,Aston Villa,AVL,1.0,31 years 34 days,France,4.0
+2022/23,13742.0,Lewis Dunk,Lewis,Dunk,D,30.0,Defender,Brighton & Hove Albion,BHA,1.0,32 years 276 days,England,4.0
+2022/23,362163.0,Pascal Groß,Pascal,Groß,M,13.0,Centre Central Midfielder,n/a,n/a,1.0,33 years 69 days,Germany,4.0
+2022/23,282013.0,Marc Guéhi,Marc,Guéhi,D,6.0,Centre Central Defender,Crystal Palace,CRY,1.0,24 years 41 days,England,4.0
+2022/23,355030.0,Daniel Iversen,Daniel,Iversen,G,1.0,Goalkeeper,Leicester City,LEI,1.0,27 years 35 days,Denmark,4.0
+2022/23,362873.0,Zanka,Mathias,Jørgensen,D,13.0,Centre Central Defender,n/a,n/a,1.0,34 years 122 days,Denmark,4.0
+2022/23,359784.0,Thilo Kehrer,Thilo,Kehrer,D,5.0,Centre/Right Central Defender,n/a,n/a,1.0,27 years 337 days,Germany,4.0
+2022/23,360556.0,Robin Koch,Robin,Koch,D,4.0,Central Defender,Leeds United,LEE,1.0,28 years 37 days,Germany,4.0
+2022/23,279619.0,Ibrahima Konaté,Ibrahima,Konaté,D,5.0,Centre Central Defender,Liverpool,LIV,1.0,25 years 90 days,France,4.0
+2022/23,340460.0,Jefferson Lerma,Jefferson,Lerma,M,8.0,Centre Central Midfielder,n/a,n/a,1.0,29 years 303 days,Colombia,4.0
+2022/23,25178.0,Hugo Lloris,Hugo,Lloris,G,1.0,Goalkeeper,n/a,n/a,1.0,37 years 241 days,France,4.0
+2022/23,360696.0,João Palhinha,João Maria,Lobo Alves Palhares Costa Palhinha Gonçalves,M,16.0,Centre Defensive Midfielder,n/a,n/a,1.0,29 years 45 days,Portugal,4.0
+2022/23,341253.0,Ruben Loftus-Cheek,Ruben,Loftus-Cheek,M,8.0,Centre Central Midfielder,n/a,n/a,1.0,28 years 213 days,England,4.0
+2022/23,340453.0,Alexis Mac Allister,Alexis,Mac Allister,M,10.0,Left/Centre/Right Attacking Midfielder,n/a,n/a,1.0,25 years 243 days,Argentina,4.0
+2022/23,252275.0,Emiliano Martínez,Emiliano,Martínez,G,23.0,Goalkeeper,Aston Villa,AVL,1.0,31 years 356 days,Argentina,4.0
+2022/23,43049.0,Joël Matip,Joël,Matip,D,32.0,Centre Central Defender,n/a,n/a,1.0,33 years 15 days,Cameroon,4.0
+2022/23,160323.0,Tyrone Mings,Tyrone,Mings,D,5.0,Centre Central Defender,Aston Villa,AVL,1.0,31 years 163 days,England,4.0
+2022/23,359382.0,Romain Perraud,Romain,Perraud,D,15.0,Left Full Back,n/a,n/a,1.0,26 years 336 days,France,4.0
+2022/23,339963.0,Ethan Pinnock,Ethan,Pinnock,D,n/a,Left/Centre Central Defender,Brentford,BRE,1.0,31 years 86 days,Jamaica,4.0
+2022/23,222663.0,Jacob Ramsey,Jacob,Ramsey,M,41.0,Midfielder,Aston Villa,AVL,1.0,23 years 87 days,England,4.0
+2022/23,360351.0,David Raya,David,Raya,G,22.0,Goalkeeper,n/a,n/a,1.0,28 years 343 days,Spain,4.0
+2022/23,202622.0,Harrison Reed,Harrison,Reed,M,6.0,Centre Central Midfielder,Fulham,FUL,1.0,29 years 209 days,England,4.0
+2022/23,289352.0,William Saliba,William,Saliba,D,2.0,Central Defender,Arsenal,ARS,1.0,23 years 152 days,France,4.0
+2022/23,343487.0,Mohammed Salisu,Mohammed,Salisu,D,22.0,Central Defender,Southampton,SOU,1.0,25 years 128 days,Ghana,4.0
+2022/23,275377.0,Fabian Schär,Fabian,Schär,D,n/a,Defender,Newcastle United,NEW,1.0,32 years 247 days,Switzerland,4.0
+2022/23,362467.0,Harry Souttar,Harry,Souttar,D,6.0,Centre Central Defender,n/a,n/a,1.0,25 years 306 days,Australia,4.0
+2022/23,135974.0,Jason Steele,Jason,Steele,G,n/a,Goalkeeper,Brighton & Hove Albion,BHA,1.0,34 years 5 days,England,4.0
+2022/23,31291.0,John Stones,John,Stones,D,5.0,Centre Central Defender,Manchester City,MCI,1.0,30 years 87 days,England,4.0
+2022/23,356341.0,Luke Thomas,Luke,Thomas,D,33.0,Left Full Back,n/a,n/a,1.0,23 years 74 days,England,4.0
+2022/23,363000.0,Kieran Trippier,Kieran,Trippier,D,n/a,Right Full Back,Newcastle United,NEW,1.0,33 years 339 days,England,4.0
+2022/23,362988.0,Deniz Undav,Deniz,Undav,F,26.0,Centre Striker,n/a,n/a,1.0,28 years 35 days,Germany,4.0
+2022/23,287525.0,Raphaël Varane,Raphaël,Varane,D,19.0,Centre Central Defender,n/a,n/a,1.0,31 years 120 days,France,4.0
+2022/23,277556.0,Theo Walcott,Theo,Walcott,F,32.0,Right Winger,Southampton,SOU,1.0,35 years 160 days,England,4.0
+2022/23,345007.0,James Ward-Prowse,James,Ward-Prowse,M,8.0,Central Midfielder,n/a,n/a,1.0,29 years 296 days,England,4.0
+2022/23,336893.0,Adam Webster,Adam,Webster,D,4.0,Defender,Brighton & Hove Albion,BHA,1.0,29 years 232 days,England,4.0
+2022/23,349224.0,Jack Harrison,Jack,Harrison,M,7.0,Midfielder,Leeds United,LEE,0.0,27 years 277 days,England,43.0
+2022/23,169744.0,Tyrick Mitchell,Tyrick,Mitchell,D,39.0,Left Full Back,Crystal Palace,CRY,0.0,24 years 357 days,England,43.0
+2022/23,190129.0,Antonee Robinson,Antonee,Robinson,D,33.0,Left Full Back,Fulham,FUL,0.0,27 years 15 days,United States,43.0
+2021/22,48260.0,Michael Keane,Michael,Keane,D,5.0,Centre Central Defender,Everton,EVE,2.0,31 years 225 days,England,1.0
+2021/22,31757.0,Jamaal Lascelles,Jamaal,Lascelles,D,6.0,Centre Central Defender,Newcastle United,NEW,2.0,30 years 286 days,England,1.0
+2021/22,344622.0,Max Aarons,Max,Aarons,D,37.0,Right Full Back,n/a,n/a,1.0,24 years 232 days,England,3.0
+2021/22,363213.0,Joachim Andersen,Joachim,Andersen,D,5.0,Centre Central Defender,n/a,n/a,1.0,28 years 84 days,Denmark,3.0
+2021/22,18272.0,Eric Bailly,Eric,Bailly,D,4.0,Centre Central Defender,n/a,n/a,1.0,30 years 133 days,Cote D’Ivoire,3.0
+2021/22,133131.0,Alisson Becker,Alisson Ramsés,Becker,G,1.0,Goalkeeper,Liverpool,LIV,1.0,31 years 326 days,Brazil,3.0
+2021/22,30517.0,Jan Bednarek,Jan,Bednarek,D,35.0,Centre Central Defender,Southampton,SOU,1.0,28 years 133 days,Poland,3.0
+2021/22,345194.0,Sergi Canós,Sergi,Canós,M,7.0,Winger,n/a,n/a,1.0,27 years 203 days,Spain,3.0
+2021/22,94007.0,Séamus Coleman,Séamus,Coleman,D,n/a,Right Full Back,Everton,EVE,1.0,35 years 317 days,Ireland,3.0
+2021/22,258090.0,Vladimír Coufal,Vladimír,Coufal,D,5.0,Right Full Back,West Ham United,WHU,1.0,32 years 1 day,Czech Republic,3.0
+2021/22,359602.0,Eric Dier,Eric,Dier,D,15.0,Centre Central Defender,n/a,n/a,1.0,30 years 221 days,England,3.0
+2021/22,300571.0,Lucas Digne,Lucas,Digne,D,12.0,Left Full Back,Aston Villa,AVL,1.0,31 years 34 days,France,3.0
+2021/22,362771.0,Álvaro Fernández,Álvaro,Fernández,G,1.0,Goalkeeper,n/a,n/a,1.0,26 years 132 days,Spain,3.0
+2021/22,278144.0,Junior Firpo,Junior,Firpo,D,3.0,Left Full Back,Leeds United,LEE,1.0,28 years 1 day,Dominican Republic,3.0
+2021/22,281390.0,Cucho Hernández,Cucho,Hernández,F,29.0,Centre Striker,Watford,WAT,1.0,25 years 125 days,Colombia,3.0
+2021/22,357711.0,Mason Holgate,Mason,Holgate,D,5.0,Defender,n/a,n/a,1.0,27 years 306 days,England,3.0
+2021/22,52087.0,Reece James,Reece,James,D,24.0,Right Full Back,Chelsea,CHE,1.0,24 years 259 days,England,3.0
+2021/22,354397.0,Tim Krul,Tim,Krul,G,n/a,Goalkeeper,n/a,n/a,1.0,36 years 142 days,Netherlands,3.0
+2021/22,324926.0,Juraj Kucka,Juraj,Kucka,M,33.0,Midfielder,Watford,WAT,1.0,37 years 179 days,Slovakia,3.0
+2021/22,161345.0,Harry Maguire,Harry,Maguire,D,5.0,Centre Central Defender,Manchester United,MUN,1.0,31 years 171 days,England,3.0
+2021/22,281359.0,José Sá,José Pedro,Malheiro de Sá,G,1.0,Goalkeeper,Wolverhampton Wanderers,WOL,1.0,31 years 219 days,Portugal,3.0
+2021/22,319809.0,Ben Mee,Ben,Mee,D,16.0,Centre Central Defender,Burnley,BUR,1.0,34 years 337 days,England,3.0
+2021/22,7748.0,Luka Milivojevic,Luka,Milivojevic,M,4.0,Centre Central Midfielder,n/a,n/a,1.0,33 years 138 days,Serbia,3.0
+2021/22,345071.0,Fred,Frederico,Rodrigues de Paula Santos,M,35.0,Centre Central Midfielder,n/a,n/a,1.0,31 years 171 days,Brazil,3.0
+2021/22,343487.0,Mohammed Salisu,Mohammed,Salisu,D,22.0,Central Defender,Southampton,SOU,1.0,25 years 128 days,Ghana,3.0
+2021/22,217457.0,Francisco Sierralta,Francisco,Sierralta,D,3.0,Centre Central Defender,Watford,WAT,1.0,27 years 109 days,Chile,3.0
+2021/22,363001.0,Matt Targett,Matt,Targett,D,n/a,Left Full Back,Newcastle United,NEW,1.0,28 years 340 days,England,3.0
+2021/22,314846.0,James Tarkowski,James,Tarkowski,D,6.0,Centre Central Defender,Burnley,BUR,1.0,31 years 278 days,England,3.0
+2021/22,11259.0,Jamie Vardy,Jamie,Vardy,F,9.0,Centre Striker,Leicester City,LEI,1.0,37 years 225 days,England,3.0
+2021/22,284417.0,Ben White,Ben,White,D,4.0,Centre/Right Central Defender,Arsenal,ARS,1.0,26 years 320 days,England,3.0
+2021/22,341954.0,Ashley Young,Ashley,Young,D,18.0,Defender,n/a,n/a,1.0,39 years 45 days,England,3.0
+2021/22,288580.0,Kurt Zouma,Kurt,Zouma,D,4.0,Centre Central Defender,West Ham United,WHU,1.0,29 years 301 days,France,3.0
+2021/22,340756.0,Shane Duffy,Shane,Duffy,D,4.0,Centre Central Defender,Brighton & Hove Albion,BHA,0.0,32 years 235 days,Ireland,33.0
+2020/21,336892.0,Craig Dawson,Craig,Dawson,D,15.0,Centre Central Defender,n/a,n/a,2.0,34 years 109 days,England,1.0
+2020/21,359177.0,Tosin Adarabioyo,Tosin,Adarabioyo,D,4.0,Centre Central Defender,n/a,n/a,1.0,26 years 334 days,England,2.0
+2020/21,319009.0,Toby Alderweireld,Toby,Alderweireld,D,23.0,Defender,n/a,n/a,1.0,35 years 174 days,Belgium,2.0
+2020/21,342387.0,Ethan Ampadu,Ethan,Ampadu,D,4.0,Central Defender,Sheffield United,SHU,1.0,23 years 344 days,Wales,2.0
+2020/21,345706.0,Pierre-Emerick Aubameyang,Pierre-Emerick,Aubameyang,F,10.0,Striker,n/a,n/a,1.0,35 years 66 days,Gabon,2.0
+2020/21,30517.0,Jan Bednarek,Jan,Bednarek,D,35.0,Centre Central Defender,Southampton,SOU,1.0,28 years 133 days,Poland,2.0
+2020/21,289837.0,Kean Bryan,Kean,Bryan,D,23.0,Centre Central Defender,Sheffield United,SHU,1.0,27 years 296 days,England,2.0
+2020/21,302934.0,Dan Burn,Dan,Burn,D,33.0,Centre Central Defender,n/a,n/a,1.0,32 years 106 days,England,2.0
+2020/21,363190.0,Nélson Semedo,Nélson,Cabral Semedo,D,2.0,Right Full Back,Wolverhampton Wanderers,WOL,1.0,30 years 281 days,Portugal,2.0
+2020/21,349855.0,Ciaran Clark,Ciaran,Clark,D,26.0,Centre Central Defender,n/a,n/a,1.0,34 years 332 days,Ireland,2.0
+2020/21,356422.0,Leander Dendoncker,Leander,Dendoncker,M,32.0,Centre Central Midfielder,n/a,n/a,1.0,29 years 130 days,Belgium,2.0
+2020/21,322882.0,Issa Diop,Issa,Diop,D,31.0,Centre Central Defender,West Ham United,WHU,1.0,27 years 227 days,France,2.0
+2020/21,257590.0,Rúben Dias,Rúben,dos Santos Gato Alves Dias,D,3.0,Centre Central Defender,Manchester City,MCI,1.0,27 years 101 days,Portugal,2.0
+2020/21,13742.0,Lewis Dunk,Lewis,Dunk,D,30.0,Defender,Brighton & Hove Albion,BHA,1.0,32 years 276 days,England,2.0
+2020/21,110232.0,Jonny Evans,Jonny,Evans,D,35.0,Centre Central Defender,n/a,n/a,1.0,36 years 233 days,Northern Ireland,2.0
+2020/21,325640.0,Federico Fernández,Federico,Fernández,D,2.0,Centre Central Defender,Newcastle United,NEW,1.0,35 years 184 days,Argentina,2.0
+2020/21,160681.0,Darnell Furlong,Darnell,Furlong,D,2.0,Right Full Back,West Bromwich Albion,WBA,1.0,28 years 297 days,England,2.0
+2020/21,359359.0,Ben Godfrey,Ben,Godfrey,D,5.0,Centre Central Defender,n/a,n/a,1.0,26 years 221 days,England,2.0
+2020/21,346845.0,Rob Holding,Rob,Holding,D,4.0,Centre Central Defender,n/a,n/a,1.0,28 years 338 days,England,2.0
+2020/21,300740.0,Phil Jagielka,Phil,Jagielka,D,6.0,Centre Central Defender,n/a,n/a,1.0,42 years 6 days,England,2.0
+2020/21,343093.0,Raúl Jiménez,Raúl,Jiménez,F,7.0,Striker,n/a,n/a,1.0,33 years 110 days,Mexico,2.0
+2020/21,321656.0,Bernd Leno,Bernd,Leno,G,1.0,Goalkeeper,n/a,n/a,1.0,32 years 172 days,Germany,2.0
+2020/21,342631.0,Jake Livermore,Jake,Livermore,M,8.0,Centre Defensive Midfielder,West Bromwich Albion,WBA,1.0,34 years 283 days,England,2.0
+2020/21,186584.0,Illan Meslier,Illan,Meslier,G,1.0,Goalkeeper,Leeds United,LEE,1.0,24 years 174 days,France,2.0
+2020/21,160323.0,Tyrone Mings,Tyrone,Mings,D,5.0,Centre Central Defender,Aston Villa,AVL,1.0,31 years 163 days,England,2.0
+2020/21,327274.0,Erik Pieters,Erik,Pieters,D,15.0,Left Full Back,Burnley,BUR,1.0,36 years 16 days,Netherlands,2.0
+2020/21,355776.0,Sergio Reguilón,Sergio,Reguilón,D,12.0,Left Full Back,Tottenham Hotspur,TOT,1.0,27 years 251 days,Spain,2.0
+2020/21,96853.0,Matt Ritchie,Matt,Ritchie,M,30.0,Left/Right Wing Back,n/a,n/a,1.0,34 years 348 days,Scotland,2.0
+2020/21,315688.0,Antonio Rüdiger,Antonio,Rüdiger,D,22.0,Centre Central Defender,n/a,n/a,1.0,31 years 173 days,Germany,2.0
+2020/21,135654.0,Bukayo Saka,Bukayo,Saka,F,77.0,Left Winger,Arsenal,ARS,1.0,22 years 353 days,England,2.0
+2020/21,348051.0,Davinson Sánchez,Davinson,Sánchez,D,6.0,Centre Central Defender,n/a,n/a,1.0,28 years 72 days,Colombia,2.0
+2020/21,315677.0,Romaine Sawyers,Romaine,Sawyers,M,19.0,Centre Attacking Midfielder,n/a,n/a,1.0,32 years 295 days,St. Kitts & Nevis,2.0
+2020/21,361188.0,Kasper Schmeichel,Kasper,Schmeichel,G,1.0,Goalkeeper,n/a,n/a,1.0,37 years 292 days,Denmark,2.0
+2020/21,14011.0,Luke Shaw,Luke,Shaw,D,23.0,Left Full Back,Manchester United,MUN,1.0,29 years 42 days,England,2.0
+2020/21,259014.0,Tomás Soucek,Tomás,Soucek,M,28.0,Centre Defensive Midfielder,West Ham United,WHU,1.0,29 years 178 days,Czech Republic,2.0
+2020/21,325193.0,Hélder Costa,Hélder Wander,Sousa de Azevedo e Costa,F,17.0,Winger,n/a,n/a,1.0,30 years 224 days,Angola,2.0
+2020/21,348160.0,Axel Tuanzebe,Axel,Tuanzebe,D,40.0,Centre Central Defender,n/a,n/a,1.0,26 years 283 days,DR Congo,2.0
+2020/21,160422.0,Ezri Konsa,Ezri,Konsa,D,4.0,Centre Central Defender,Aston Villa,AVL,0.0,26 years 305 days,England,38.0
+2020/21,361516.0,Bailey Peacock-Farrell,Bailey,Peacock-Farrell,G,45.0,Goalkeeper,Burnley,BUR,0.0,27 years 299 days,Northern Ireland,38.0
+2019/20,289629.0,Tammy Abraham,Tammy,Abraham,F,9.0,Centre Striker,n/a,n/a,1.0,26 years 326 days,England,1.0
+2019/20,319009.0,Toby Alderweireld,Toby,Alderweireld,D,23.0,Defender,n/a,n/a,1.0,35 years 174 days,Belgium,1.0
+2019/20,356787.0,Sèrge Aurier,Sèrge,Aurier,D,92.0,Right Full Back,n/a,n/a,1.0,31 years 243 days,Cote D’Ivoire,1.0
+2019/20,30517.0,Jan Bednarek,Jan,Bednarek,D,35.0,Centre Central Defender,n/a,n/a,1.0,28 years 133 days,Poland,1.0
+2019/20,356422.0,Leander Dendoncker,Leander,Dendoncker,M,32.0,Centre Central Midfielder,n/a,n/a,1.0,29 years 130 days,Belgium,1.0
+2019/20,300571.0,Lucas Digne,Lucas,Digne,D,12.0,Left Full Back,n/a,n/a,1.0,31 years 34 days,France,1.0
+2019/20,222694.0,Abdoulaye Doucouré,Abdoulaye,Doucouré,M,16.0,Centre Central Midfielder,n/a,n/a,1.0,31 years 235 days,Mali,1.0
+2019/20,176689.0,Paul Dummett,Paul,Dummett,D,n/a,Defender,n/a,n/a,1.0,32 years 332 days,Wales,1.0
+2019/20,110232.0,Jonny Evans,Jonny,Evans,D,35.0,Centre Central Defender,n/a,n/a,1.0,36 years 233 days,Northern Ireland,1.0
+2019/20,325640.0,Federico Fernández,Federico,Fernández,D,2.0,Centre Central Defender,Newcastle United,NEW,1.0,35 years 184 days,Argentina,1.0
+2019/20,359359.0,Ben Godfrey,Ben,Godfrey,D,5.0,Centre Central Defender,n/a,n/a,1.0,26 years 221 days,England,1.0
+2019/20,362163.0,Pascal Groß,Pascal,Groß,M,13.0,Centre Central Midfielder,n/a,n/a,1.0,33 years 69 days,Germany,1.0
+2019/20,346855.0,Vicente Guaita,Vicente,Guaita,G,13.0,Goalkeeper,n/a,n/a,1.0,37 years 226 days,Spain,1.0
+2019/20,353409.0,Grant Hanley,Grant,Hanley,D,n/a,Defender,Norwich City,NOR,1.0,32 years 277 days,Scotland,1.0
+2019/20,277767.0,Tom Heaton,Tom,Heaton,G,22.0,Goalkeeper,n/a,n/a,1.0,38 years 130 days,England,1.0
+2019/20,284325.0,Daryl Janmaat,Daryl,Janmaat,D,53.0,Right Full Back,n/a,n/a,1.0,35 years 32 days,Netherlands,1.0
+2019/20,196350.0,Roberto Jiménez,Roberto,Jiménez,G,13.0,Goalkeeper,n/a,n/a,1.0,38 years 195 days,Spain,1.0
+2019/20,300156.0,James Justin,James,Justin,D,n/a,Defender,Leicester City,LEI,1.0,26 years 182 days,England,1.0
+2019/20,48260.0,Michael Keane,Michael,Keane,D,5.0,Centre Central Defender,Everton,EVE,1.0,31 years 225 days,England,1.0
+2019/20,354397.0,Tim Krul,Tim,Krul,G,n/a,Goalkeeper,n/a,n/a,1.0,36 years 142 days,Netherlands,1.0
+2019/20,44159.0,Victor Lindelöf,Victor,Lindelöf,D,n/a,Centre Central Defender,Manchester United,MUN,1.0,30 years 37 days,Sweden,1.0
+2019/20,339647.0,Adrian Mariappa,Adrian,Mariappa,D,5.0,Centre Central Defender,n/a,n/a,1.0,37 years 325 days,Jamaica,1.0
+2019/20,343686.0,Yerry Mina,Yerry,Mina,D,26.0,Central Defender,n/a,n/a,1.0,29 years 335 days,Colombia,1.0
+2019/20,322089.0,Angelo Ogbonna,Angelo,Ogbonna,D,n/a,Central Defender,n/a,n/a,1.0,36 years 92 days,Italy,1.0
+2019/20,345067.0,Alex Oxlade-Chamberlain,Alex,Oxlade-Chamberlain,M,15.0,Central Midfielder,n/a,n/a,1.0,31 years 8 days,England,1.0
+2019/20,6723.0,Fernandinho,Fernando Luiz,Rosa,M,25.0,Centre Defensive Midfielder,n/a,n/a,1.0,39 years 111 days,Brazil,1.0
+2019/20,315688.0,Antonio Rüdiger,Antonio,Rüdiger,D,22.0,Centre Central Defender,n/a,n/a,1.0,31 years 173 days,Germany,1.0
+2019/20,259014.0,Tomás Soucek,Tomás,Soucek,M,28.0,Centre Defensive Midfielder,n/a,n/a,1.0,29 years 178 days,Czech Republic,1.0
+2019/20,337920.0,Patrick van Aanholt,Patrick,van Aanholt,D,30.0,Left Full Back,n/a,n/a,1.0,33 years 360 days,Netherlands,1.0
+2019/20,336893.0,Adam Webster,Adam,Webster,D,4.0,Defender,Brighton & Hove Albion,BHA,1.0,29 years 232 days,England,1.0
+2019/20,340567.0,Chris Wood,Chris,Wood,F,11.0,Centre Striker,n/a,n/a,1.0,32 years 260 days,New Zealand,1.0
+2019/20,288580.0,Kurt Zouma,Kurt,Zouma,D,4.0,Centre Central Defender,n/a,n/a,1.0,29 years 301 days,France,1.0
+2019/20,114730.0,Davy Pröpper,Davy,Pröpper,M,14.0,Centre Central Midfielder,n/a,n/a,0.0,32 years 356 days,Netherlands,33.0
+2018/19,340930.0,Conor Coady,Conor,Coady,D,4.0,Centre Central Defender,n/a,n/a,3.0,31 years 180 days,England,1.0
+2018/19,347715.0,Craig Cathcart,Craig,Cathcart,D,n/a,Centre Central Defender,Watford,WAT,2.0,35 years 199 days,Northern Ireland,2.0
+2018/19,337815.0,Wesley Hoedt,Wesley,Hoedt,D,4.0,Centre Central Defender,n/a,n/a,2.0,30 years 170 days,Netherlands,2.0
+2018/19,319809.0,Ben Mee,Ben,Mee,D,16.0,Centre Central Defender,Burnley,BUR,2.0,34 years 337 days,England,2.0
+2018/19,319009.0,Toby Alderweireld,Toby,Alderweireld,D,23.0,Defender,n/a,n/a,1.0,35 years 174 days,Belgium,5.0
+2018/19,335366.0,Phil Bardsley,Phil,Bardsley,D,27.0,Right Full Back,Burnley,BUR,1.0,39 years 56 days,Scotland,5.0
+2018/19,340758.0,Ashley Barnes,Ashley,Barnes,F,10.0,Centre Striker,n/a,n/a,1.0,34 years 298 days,England,5.0
+2018/19,342164.0,Héctor Bellerín,Héctor,Bellerín,D,2.0,Right Full Back,n/a,n/a,1.0,29 years 157 days,Spain,5.0
+2018/19,94007.0,Séamus Coleman,Séamus,Coleman,D,n/a,Right Full Back,Everton,EVE,1.0,35 years 317 days,Ireland,5.0
+2018/19,344449.0,Steve Cook,Steve,Cook,D,5.0,Central Defender,n/a,n/a,1.0,33 years 126 days,England,5.0
+2018/19,300571.0,Lucas Digne,Lucas,Digne,D,12.0,Left Full Back,n/a,n/a,1.0,31 years 34 days,France,5.0
+2018/19,322882.0,Issa Diop,Issa,Diop,D,31.0,Centre Central Defender,West Ham United,WHU,1.0,27 years 227 days,France,5.0
+2018/19,294007.0,Matt Doherty,Matt,Doherty,D,2.0,Right Full Back,n/a,n/a,1.0,32 years 220 days,Ireland,5.0
+2018/19,222694.0,Abdoulaye Doucouré,Abdoulaye,Doucouré,M,16.0,Centre Central Midfielder,n/a,n/a,1.0,31 years 235 days,Mali,5.0
+2018/19,267496.0,Timothy Fosu-Mensah,Timothy,Fosu-Mensah,D,24.0,Left/Centre/Right Central Defender,n/a,n/a,1.0,26 years 234 days,Netherlands,5.0
+2018/19,337757.0,Martin Kelly,Martin,Kelly,D,34.0,Right Full Back,n/a,n/a,1.0,34 years 118 days,England,5.0
+2018/19,359129.0,Terence Kongolo,Terence,Kongolo,D,15.0,Central Defender,n/a,n/a,1.0,30 years 191 days,Netherlands,5.0
+2018/19,340460.0,Jefferson Lerma,Jefferson,Lerma,M,8.0,Centre Central Midfielder,n/a,n/a,1.0,29 years 303 days,Colombia,5.0
+2018/19,44159.0,Victor Lindelöf,Victor,Lindelöf,D,n/a,Centre Central Defender,Manchester United,MUN,1.0,30 years 37 days,Sweden,5.0
+2018/19,296173.0,Fernando Llorente,Fernando,Llorente,F,12.0,Centre Striker,n/a,n/a,1.0,39 years 179 days,Spain,5.0
+2018/19,359203.0,Denis Odoi,Denis,Odoi,D,6.0,Defender,n/a,n/a,1.0,36 years 88 days,Ghana,5.0
+2018/19,295821.0,Marcos Rojo,Marcos,Rojo,D,6.0,Left/Centre Central Defender,n/a,n/a,1.0,34 years 156 days,Argentina,5.0
+2018/19,358552.0,Jack Simpson,Jack,Simpson,D,4.0,Centre Central Defender,n/a,n/a,1.0,27 years 249 days,England,5.0
+2018/19,259066.0,Chris Smalling,Chris,Smalling,D,6.0,Centre Central Defender,n/a,n/a,1.0,34 years 275 days,England,5.0
+2018/19,363000.0,Kieran Trippier,Kieran,Trippier,D,n/a,Right Full Back,n/a,n/a,1.0,33 years 339 days,England,5.0
+2018/19,345007.0,James Ward-Prowse,James,Ward-Prowse,M,8.0,Central Midfielder,n/a,n/a,1.0,29 years 296 days,England,5.0
+2018/19,312091.0,DeAndre Yedlin,DeAndre,Yedlin,D,2.0,Right Full Back,n/a,n/a,1.0,31 years 45 days,United States,5.0
+2018/19,340754.0,Joe Bryan,Joe,Bryan,D,15.0,Left Full Back,n/a,n/a,0.0,30 years 341 days,England,28.0
+2018/19,343543.0,Sead Kolasinac,Sead,Kolasinac,D,23.0,Left Full Back,n/a,n/a,0.0,31 years 64 days,Bosnia & Herzegovina,28.0
+2018/19,322089.0,Angelo Ogbonna,Angelo,Ogbonna,D,n/a,Central Defender,n/a,n/a,0.0,36 years 92 days,Italy,28.0
+2017/18,13742.0,Lewis Dunk,Lewis,Dunk,D,30.0,Defender,Brighton & Hove Albion,BHA,4.0,32 years 276 days,England,1.0
+2017/18,341459.0,César Azpilicueta,César,Azpilicueta,D,3.0,Right Full Back,n/a,n/a,1.0,34 years 361 days,Spain,2.0
+2017/18,18272.0,Eric Bailly,Eric,Bailly,D,4.0,Centre Central Defender,n/a,n/a,1.0,30 years 133 days,Cote D’Ivoire,2.0
+2017/18,359639.0,Michy Batshuayi,Michy,Batshuayi,F,44.0,Left/Centre Striker,Chelsea,CHE,1.0,30 years 326 days,Belgium,2.0
+2017/18,180097.0,Gaëtan Bong,Gaëtan,Bong,D,6.0,Left Full Back,n/a,n/a,1.0,36 years 120 days,Cameroon,2.0
+2017/18,347041.0,Jack Butland,Jack,Butland,G,1.0,Goalkeeper,n/a,n/a,1.0,31 years 166 days,England,2.0
+2017/18,344449.0,Steve Cook,Steve,Cook,D,5.0,Central Defender,n/a,n/a,1.0,33 years 126 days,England,2.0
+2017/18,343383.0,Karl Darlow,Karl,Darlow,G,26.0,Goalkeeper,n/a,n/a,1.0,33 years 320 days,England,2.0
+2017/18,110232.0,Jonny Evans,Jonny,Evans,D,35.0,Centre Central Defender,West Bromwich Albion,WBA,1.0,36 years 233 days,Northern Ireland,2.0
+2017/18,325640.0,Federico Fernández,Federico,Fernández,D,2.0,Centre Central Defender,n/a,n/a,1.0,35 years 184 days,Argentina,2.0
+2017/18,311979.0,Christian Fuchs,Christian,Fuchs,D,22.0,Left Full Back,n/a,n/a,1.0,38 years 138 days,Austria,2.0
+2017/18,6013.0,Phil Jones,Phil,Jones,D,4.0,Centre Central Defender,n/a,n/a,1.0,32 years 184 days,England,2.0
+2017/18,30562.0,Christian Kabasele,Christian,Kabasele,D,27.0,Centre Central Defender,n/a,n/a,1.0,33 years 181 days,Belgium,2.0
+2017/18,337757.0,Martin Kelly,Martin,Kelly,D,34.0,Right Full Back,n/a,n/a,1.0,34 years 118 days,England,2.0
+2017/18,335966.0,Kevin Long,Kevin,Long,D,26.0,Centre Central Defender,n/a,n/a,1.0,34 years 5 days,Ireland,2.0
+2017/18,299538.0,Jonas Lössl,Jonas,Lössl,G,49.0,Goalkeeper,n/a,n/a,1.0,35 years 204 days,Denmark,2.0
+2017/18,343669.0,James McClean,James,McClean,M,7.0,Left Winger,West Bromwich Albion,WBA,1.0,35 years 123 days,Ireland,2.0
+2017/18,41422.0,Kyle Naughton,Kyle,Naughton,D,26.0,Right Full Back,Swansea City,SWA,1.0,35 years 280 days,England,2.0
+2017/18,258178.0,Nicolás Otamendi,Nicolás,Otamendi,D,30.0,Central Defender,n/a,n/a,1.0,36 years 193 days,Argentina,2.0
+2017/18,362819.0,Ayoze Pérez,Ayoze,Pérez,F,22.0,Left/Centre/Right Winger,n/a,n/a,1.0,31 years 25 days,Spain,2.0
+2017/18,348051.0,Davinson Sánchez,Davinson,Sánchez,D,6.0,Centre Central Defender,n/a,n/a,1.0,28 years 72 days,Colombia,2.0
+2017/18,361188.0,Kasper Schmeichel,Kasper,Schmeichel,G,1.0,Goalkeeper,n/a,n/a,1.0,37 years 292 days,Denmark,2.0
+2017/18,166767.0,Ryan Shawcross,Ryan,Shawcross,D,n/a,Centre Central Defender,n/a,n/a,1.0,36 years 324 days,England,2.0
+2017/18,50015.0,Kyle Walker,Kyle,Walker,D,2.0,Right Full Back,Manchester City,MCI,1.0,34 years 87 days,England,2.0
+2017/18,128164.0,Joel Ward,Joel,Ward,D,n/a,Defender,n/a,n/a,1.0,34 years 299 days,England,2.0
+2017/18,312091.0,DeAndre Yedlin,DeAndre,Yedlin,D,2.0,Right Full Back,n/a,n/a,1.0,31 years 45 days,United States,2.0
+2017/18,44033.0,Pablo Zabaleta,Pablo,Zabaleta,D,5.0,Right Full Back,n/a,n/a,1.0,39 years 220 days,Argentina,2.0
+2017/18,268846.0,Jonjoe Kenny,Jonjoe,Kenny,D,16.0,Right Full Back,n/a,n/a,0.0,27 years 161 days,England,28.0
+2017/18,342058.0,Declan Rice,Declan,Rice,M,41.0,Centre Central Midfielder,n/a,n/a,0.0,25 years 222 days,England,28.0
+2017/18,92622.0,Virgil van Dijk,Virgil,van Dijk,D,4.0,Centre Central Defender,Liverpool,LIV,0.0,33 years 46 days,Netherlands,28.0
